@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AMD R 7 3600X 12 CTWIGCPU Clicker</string>
+    <string name="clicker_info_1">Click the AMD Ryzen 3600X 12 Core thread with integrated graphics Central Processing Unit to collect Loonie</string>
+    <string name="clicker_no_info"></string>
+    <string name="click_display">Loonies: "$"%s</string>
+    <string name="lemon_empty_glass">Tap the empty glass to start again</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+</resources>
